@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DXEIP/Fabrikam%20Test/_apis/build/status/Fabrikam%20Test-Maven-CI?branchName=master)](https://dev.azure.com/DXEIP/Fabrikam%20Test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
